@@ -1,0 +1,17 @@
+C:\Users\81805\Desktop\4byte\No14\bin\Release\net7.0\No14.exe
+C:\Users\81805\Desktop\4byte\No14\bin\Release\net7.0\No14.deps.json
+C:\Users\81805\Desktop\4byte\No14\bin\Release\net7.0\No14.runtimeconfig.json
+C:\Users\81805\Desktop\4byte\No14\bin\Release\net7.0\No14.dll
+C:\Users\81805\Desktop\4byte\No14\bin\Release\net7.0\No14.pdb
+C:\Users\81805\Desktop\4byte\No14\bin\Release\net7.0\Crc32.NET.dll
+C:\Users\81805\Desktop\4byte\No14\obj\Release\net7.0\No14.csproj.AssemblyReference.cache
+C:\Users\81805\Desktop\4byte\No14\obj\Release\net7.0\No14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\81805\Desktop\4byte\No14\obj\Release\net7.0\No14.AssemblyInfoInputs.cache
+C:\Users\81805\Desktop\4byte\No14\obj\Release\net7.0\No14.AssemblyInfo.cs
+C:\Users\81805\Desktop\4byte\No14\obj\Release\net7.0\No14.csproj.CoreCompileInputs.cache
+C:\Users\81805\Desktop\4byte\No14\obj\Release\net7.0\No14.csproj.CopyComplete
+C:\Users\81805\Desktop\4byte\No14\obj\Release\net7.0\No14.dll
+C:\Users\81805\Desktop\4byte\No14\obj\Release\net7.0\refint\No14.dll
+C:\Users\81805\Desktop\4byte\No14\obj\Release\net7.0\No14.pdb
+C:\Users\81805\Desktop\4byte\No14\obj\Release\net7.0\No14.genruntimeconfig.cache
+C:\Users\81805\Desktop\4byte\No14\obj\Release\net7.0\ref\No14.dll
